@@ -20,7 +20,7 @@ Exercise caution when deleting clusters to avoid unintended loss of backups.
 
 > Your cluster generation needs to be greater or equal to `8.2.4` to support backups.
 
-## Backup Types
+## Backup types
 
 ### Manual backup
 
