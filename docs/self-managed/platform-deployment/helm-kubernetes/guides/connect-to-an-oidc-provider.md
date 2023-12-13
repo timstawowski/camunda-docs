@@ -57,7 +57,7 @@ values={[{label: 'Generic', value: 'generic' },{label: 'Microsoft Entra ID', val
 
 ### Additional considerations
 
-For authentication, the Camunda components use the scopes `email`, `openid`, `offline_access` and `profile`.
+For authentication, the Camunda components use the scopes `email`, `openid`, `offline_access`, and `profile`.
 
 </TabItem>
 <TabItem value="microsoftEntraId">
